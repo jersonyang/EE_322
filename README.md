@@ -10,7 +10,7 @@
 
 - Unordered List
 
-`code `
+`Code `
 
 ---
 
